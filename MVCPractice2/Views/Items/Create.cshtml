@@ -1,0 +1,21 @@
+﻿@model MVCPractice2.Models.Item
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h3>Add an Item</h3>
+
+<form asp-action="Create" method="post">
+  <div class="form-group">
+      <label for="Name">Name</label>
+      <input asp-for="Name" type="text" class="form-control"/>
+  </div>
+    <div class="form-group">
+        <label for="Price">Price</label>
+        <input asp-for="Price" type="text" class="form-control" />
+       @*  displaying categories from the dictionary *@
+        <label for="Category">Category</label>
+        <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control"></select>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

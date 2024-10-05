@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ITDivision\\Pratice\\MVCPractice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\data\\mvcpractice2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\data\\mvcpractice2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\models\\useritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\models\\useritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\migrations\\20241005090640_one to one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\migrations\\20241005090640_one to one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005113408_many to many fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCPractice2\\Migrations\\20241005113408_many to many fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005113142_many to many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCPractice2\\Migrations\\20241005113142_many to many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\models\\serialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\models\\serialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005103917_One to Many Fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCPractice2\\Migrations\\20241005103917_One to Many Fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005101451_One to Many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCPractice2\\Migrations\\20241005101451_One to Many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\migrations\\20241004101005_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\migrations\\20241004101005_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\migrations\\20241004083021_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\migrations\\20241004083021_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|c:\\itdivision\\pratice\\mvcpractice2\\mvcpractice2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCD18DF-3BE0-47A7-A7D5-CEA614FC581C}|MVCPractice2\\MVCPractice2.csproj|solutionrelative:mvcpractice2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "MVCPractice2\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:15:30.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice2\\Views\\Items\\Index.cshtml",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "MVCPractice2\\Views\\Items\\Index.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T10:21:19.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Models\\Item.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Models\\Item.cs",
+              "RelativeToolTip": "MVCPractice2\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:12:48.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Items\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice2\\Views\\Items\\Edit.cshtml",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Items\\Edit.cshtml",
+              "RelativeToolTip": "MVCPractice2\\Views\\Items\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T12:05:19.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Models\\User.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Models\\User.cs",
+              "RelativeToolTip": "MVCPractice2\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:17:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserItem.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Models\\UserItem.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Models\\UserItem.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Models\\UserItem.cs",
+              "RelativeToolTip": "MVCPractice2\\Models\\UserItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:18:18.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MVCPractice2Context.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Data\\MVCPractice2Context.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Data\\MVCPractice2Context.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Data\\MVCPractice2Context.cs",
+              "RelativeToolTip": "MVCPractice2\\Data\\MVCPractice2Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:06:33.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241005090640_One to One.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005090640_One to One.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Migrations\\20241005090640_One to One.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005090640_One to One.cs",
+              "RelativeToolTip": "MVCPractice2\\Migrations\\20241005090640_One to One.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:06:40.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241005113408_many to many fix.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005113408_many to many fix.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Migrations\\20241005113408_many to many fix.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005113408_many to many fix.cs",
+              "RelativeToolTip": "MVCPractice2\\Migrations\\20241005113408_many to many fix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:34:08.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241005113142_many to many.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005113142_many to many.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Migrations\\20241005113142_many to many.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005113142_many to many.cs",
+              "RelativeToolTip": "MVCPractice2\\Migrations\\20241005113142_many to many.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:31:43.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Models\\Category.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Models\\Category.cs",
+              "RelativeToolTip": "MVCPractice2\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:07:19.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SerialNumber.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Models\\SerialNumber.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Models\\SerialNumber.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Models\\SerialNumber.cs",
+              "RelativeToolTip": "MVCPractice2\\Models\\SerialNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:52:57.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice2\\Views\\Items\\Create.cshtml",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "MVCPractice2\\Views\\Items\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T10:43:49.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCPractice2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T12:16:12.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241005103917_One to Many Fix.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005103917_One to Many Fix.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Migrations\\20241005103917_One to Many Fix.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005103917_One to Many Fix.cs",
+              "RelativeToolTip": "MVCPractice2\\Migrations\\20241005103917_One to Many Fix.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:39:17.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241005101451_One to Many.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005101451_One to Many.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Migrations\\20241005101451_One to Many.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241005101451_One to Many.cs",
+              "RelativeToolTip": "MVCPractice2\\Migrations\\20241005101451_One to Many.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:14:52.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Program.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Program.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Program.cs",
+              "RelativeToolTip": "MVCPractice2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:23:26.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Items\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice2\\Views\\Items\\Delete.cshtml",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Items\\Delete.cshtml",
+              "RelativeToolTip": "MVCPractice2\\Views\\Items\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T07:39:18.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241004101005_Second Migration.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241004101005_Second Migration.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Migrations\\20241004101005_Second Migration.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241004101005_Second Migration.cs",
+              "RelativeToolTip": "MVCPractice2\\Migrations\\20241004101005_Second Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:10:05.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVCPractice2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVCPractice2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T12:17:48.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCPractice2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:06:53.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCPractice2\\appsettings.json",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\appsettings.json",
+              "RelativeToolTip": "MVCPractice2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T08:21:33.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCPractice2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T10:22:49.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241004083021_Initial Migration.cs",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241004083021_Initial Migration.cs",
+              "RelativeDocumentMoniker": "MVCPractice2\\Migrations\\20241004083021_Initial Migration.cs",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Migrations\\20241004083021_Initial Migration.cs",
+              "RelativeToolTip": "MVCPractice2\\Migrations\\20241004083021_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:30:21.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Overview.cshtml",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Items\\Overview.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice2\\Views\\Items\\Overview.cshtml",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\Items\\Overview.cshtml",
+              "RelativeToolTip": "MVCPractice2\\Views\\Items\\Overview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T12:23:18.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCPractice2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\ITDivision\\Pratice\\MVCPractice2\\MVCPractice2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCPractice2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T12:04:29.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+﻿@model List<MVCPractice2.Models.Item>
+
+@{
+    //the ["Title] is a template from the generated Layout page
+    //this way the Index will actually replace the "Title" when rendered
+    ViewData["Title"] = "Index";
+}
+
+
+
+
+<div>
+    <h3>Index</h3>
+    <a asp-action="Create" class="btn bg-info">Create</a>
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>SerialNumber</th>
+                    <th>Category</th>
+                    <th>User</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+
+                        @* to display prices with 2 digits comma *@
+                        <td>@item.Price.ToString("N2") $</td>
+
+                        @* accessing the serialNumber *@
+                        <td>@item.SerialNumber.Name</td>
+
+                        <td>@item.Category.Name</td>
+
+                        <td>
+                            @* because many to many is applied, there is posibility of multiple user *@
+                            @*iterating in a nested for loop from the item taken from Model*@
+                            @foreach(var user in item.UserItems)
+                            {
+                                @user.User.Name
+                            }
+                        </td>
+                    
+                        @* tag helper asp-action from Razor to connect to controller *@
+                        <td>
+                            >
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-info">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

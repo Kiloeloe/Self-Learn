@@ -1,0 +1,14 @@
+﻿@* imports the model to access it*@
+@model MVCPractice2.Models.Item
+@{
+    var items = new List<string> { "Pen", "Pencil", "Apple", "Pineaple" };
+}
+@* access the Name property from the imported model *@
+<p>This is the name of the item @Model.Name </p>
+
+<ul>
+    @foreach(var item in items)
+    {
+        <li>@item</li>
+    }
+</ul>
