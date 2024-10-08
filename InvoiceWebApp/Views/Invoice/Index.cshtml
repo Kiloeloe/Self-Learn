@@ -1,0 +1,73 @@
+﻿@model InvoiceWebApp.ViewModels.InvoiceViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="container">
+    <h1 class="mb-3">Invoice Web App</h1>
+    <form asp-action="Search" method="post" class="form-inline mb-3">
+        <div class="form-group mb-2">
+            <label for="invoiceId" class="sr-only">No Invoice</label>
+            <input name="invoiceId" id="invoiceId" class="form-control mr-2" placeholder="Enter Invoice No" />
+        </div>
+        <button type="submit" class="btn btn-primary mb-2">View</button>
+    </form>
+    
+    @if(Model.Invoices !=null && Model.Invoices.Any())
+    {
+        <table class="table table-bordered mt-3">
+            <thead>
+                <tr>
+                    <th>Item</th>
+                    <th>Weight</th>
+                    <th>Qty</th>
+                    <th>Unit Price</th>
+                    <th>Total</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var invoice in Model.Invoices)
+                {
+                    
+                    @foreach (var detail in invoice.TrInvoiceDetails)
+                    {
+                        <tr>
+                            <td>@detail.InvoiceNo</td>
+                            <td>@detail.Weight</td>
+                            <td>@detail.Qty</td>
+                            <td>@detail.Price</td>
+                            <td>@(detail.Price * detail.Qty)</td>
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@invoice.InvoiceNo" class="btn btn-info">Edit</a>
+                            </td>
+
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+
+        <div>
+            @foreach (var invoice in Model.Invoices)
+            {
+                <div>
+                    <h4>Sub Total</h4>
+                    <h4>@Model.SubTotal</h4>
+                </div>
+                <div>
+                    <h4>Courier Fee</h4>
+                    <h4>Rp.@Model.CourierFee</h4>
+                </div>
+                <div>
+                    <h4>Total</h4>
+                    <h4>Rp.@Model.TotalAmmount</h4>
+                </div>
+            }
+
+        </div>
+    }
+    
+</div>

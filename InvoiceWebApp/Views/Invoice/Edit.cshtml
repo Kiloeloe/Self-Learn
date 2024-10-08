@@ -1,0 +1,47 @@
+﻿@model InvoiceWebApp.ViewModels.EditViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <h1>Edit Invoice Details</h1>
+    <form asp-action="Edit" method="post">
+        <div>
+            <label>Invoice No:</label>
+            <input type="text" asp-for="InvoiceNo" class="form-control"/>
+        </div>
+        <div>
+            <label>Invoice Date:</label>
+            <input type="date" asp-for="InvoiceDate" class="form-control" />
+        </div>
+        <div>
+            <label>To:</label>
+            <input type="text" asp-for="InvoiceTo" class="form-control" />
+        </div>
+        <div>
+            <label>Sales Name</label>
+            <select asp-for="SalesId" class="form-control" asp-items="ViewBag.SalesList">
+                <option value="">Select a sales person</option>
+            </select>
+        </div>
+        <div>
+            <label>Courier</label>
+            <select asp-for="CourierId" class="form-control" asp-items="ViewBag.CourierList">
+                <option value="">Select a courier</option>
+            </select>
+        </div>
+        <div>
+            <label>ShipTo</label>
+            <input type="text" asp-for="ShipTo" class="form-control" />
+        </div>
+        <div>
+            <label>Payment Type</label>
+            <select asp-for="PaymentType" class="form-control" asp-items="ViewBag.PaymentList">
+                <option value="">Select a payment type</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+</div>
